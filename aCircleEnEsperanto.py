@@ -26,6 +26,7 @@ class aCircle:
 
 n1Circle = aCircle()
 
-n1Circle.setRadius(5)
+inum = float(input("Please enter the desired radius of the circle.\n"))
+n1Circle.setRadius(inum)
 
 print("The area of the circle is :", n1Circle.area())
