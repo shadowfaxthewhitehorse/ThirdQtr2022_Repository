@@ -2,7 +2,7 @@
 #
 # :ENGLISH:
 #
-# Do you want to see how the various mathematical attributes of a circle can be succincely captured in code? If so, read below.
+# Do you want to see how the various mathematical attributes of a circle can be succinctly captured in Python code? If so, read below.
 # 
 # :ESPERANTO:
 #
